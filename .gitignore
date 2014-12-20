@@ -1,6 +1,11 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+target/
+lib/
+.settings/
+/.project
+/.classpath
 
 # Folder config file
 Desktop.ini
